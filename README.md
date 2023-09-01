@@ -1,8 +1,3 @@
-# prework-study-guide
-Prework Study Guide for WashU's Coding Bootcamp
-git pull origin main
-git checkout -b feature/project-README
-
 # Prework Study Guide Webpage
 
 ## Description
